@@ -1,15 +1,15 @@
-Customer Shopping Behavior Analysis
+**Customer Shopping Behavior Analysis**
 📌 Overview
 This project provides an end-to-end data analytics solution to understand consumer purchase patterns. By leveraging Python for data engineering, SQL for deep-dive analysis, and Power BI for visualization, this project transforms raw transactional data into actionable business strategies for the retail sector.
 
-📊 Dataset
+**📊 Dataset**
 The analysis is based on a Customer Shopping Behavior dataset containing 3,900 records.
 
 Key Features: Age, Gender, Purchase Amount, Item Category, Subscription Status, Shipping Type, and Review Ratings.
 
 Objective: To identify high-value segments and optimize marketing/inventory strategies.
 
-🛠 Tools & Technologies
+**🛠 Tools & Technologies**
 Language: Python 3.14 (Pandas, NumPy, Jupyter Notebook)
 
 Database: PostgreSQL (or MySQL/SQL Server) for structured querying
@@ -20,7 +20,7 @@ AI Integration: Gemini (Slide Deck Generation & Report Drafting)
 
 Environment: Windows-based local development
 
-🚀 Project Steps
+**🚀 Project Steps**
 1. Data Cleaning & EDA (Python)
 Standardized column names to snake_case.
 
@@ -53,7 +53,7 @@ Utilized Gemini to analyze summary statistics and generate a professional 12-sli
 
 Drafted a final executive summary report based on visual insights.
 
-📈 Dashboard Highlights
+**📈 Dashboard Highlights**
 The Power BI Dashboard includes:
 
 Executive Summary: High-level KPIs (Total Revenue, Avg Rating, Total Orders).
@@ -64,7 +64,7 @@ Behavioral Analysis: Discount usage vs. Purchase frequency.
 
 Logistics Tracking: Shipping type performance and spend correlation.
 
-🏆 Key Results
+**🏆 Key Results**
 Top Performers: Jewelry and Clothing items (Blouses, Pants) drive the highest volume.
 
 Revenue Drivers: The "Young Adult" segment is the most profitable cohort ($62k+ revenue).
@@ -73,7 +73,7 @@ Growth Opportunity: 73% of customers are currently non-subscribers, representing
 
 Quality Leaders: Accessories (specifically Gloves) hold the highest customer satisfaction ratings.
 
-💻 How to Run
+**💻 How to Run**
 Clone the Repo:
 
 Bash
